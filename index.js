@@ -53,7 +53,7 @@ function TikTok() {
 
 function Facebook() {
     setTimeout(function() {
-            window.open('', 'ultimate')
+            window.open('https://www.facebook.com/TduongandMeng', 'ultimate')
         },
         100);
 }

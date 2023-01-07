@@ -44,9 +44,9 @@ tick();
 // LINK
 //▬▬▬▬▬▬▬▬▬▬
 
-function TikTok('https://www.tiktok.com/@phentduong2207') {
+function TikTok() {
     setTimeout(function() {
-            window.open('', 'ultimate')
+            window.open('https://www.tiktok.com/@phentduong2207', 'ultimate')
         },
         100);
 }
